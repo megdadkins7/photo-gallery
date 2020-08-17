@@ -3,8 +3,13 @@ import styled from "styled-components";
 
 const StyledHeader = styled.div`
   h1 {
-    color: #fe4555;
+    margin-top: 10px;
+    text-align: center;
     text-transform: uppercase;
+    font-size: 70px;
+    background: -webkit-linear-gradient(#fe4555, #0f1923);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 `;
 

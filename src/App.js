@@ -1,21 +1,19 @@
 import React from "react";
-import styled from "styled-components";
 
 //components
 import Header from "./components/Header";
-import Main from "./components/Main";
+import Gallery from "./components/Gallery";
 
-const StyledApp = styled.div`
-  display: flex;
-  justify-content: center;
-`;
+//styles
+import GlobalStyles from "./styles/GlobalStyles";
 
 function App() {
   return (
-    <StyledApp>
+    <div>
+      <GlobalStyles />
       <Header />
-      <Main />
-    </StyledApp>
+      <Gallery />
+    </div>
   );
 }
 

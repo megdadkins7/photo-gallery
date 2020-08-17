@@ -1,15 +1,15 @@
 //assets
-import breach from "../assets/breach.png";
-import brimstone from "../assets/brimstone.png";
-import cypher from "../assets/cypher.png";
-import jett from "../assets/jett.png";
-import omen from "../assets/omen.png";
-import phoenix from "../assets/phoenix.png";
-import raze from "../assets/raze.png";
-import reyna from "../assets/reyna.png";
-import sage from "../assets/sage.png";
-import sova from "../assets/sova.png";
-import viper from "../assets/viper.png";
+import breach from "./assets/breach.png";
+import brimstone from "./assets/brimstone.png";
+import cypher from "./assets/cypher.png";
+import jett from "./assets/jett.png";
+import omen from "./assets/omen.png";
+import phoenix from "./assets/phoenix.png";
+import raze from "./assets/raze.png";
+import reyna from "./assets/reyna.png";
+import sage from "./assets/sage.png";
+import sova from "./assets/sova.png";
+import viper from "./assets/viper.png";
 
 export const heroList = [
   {
