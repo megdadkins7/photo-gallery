@@ -23,7 +23,7 @@ const StyledModal = styled.div`
     max-height: 800px;
     padding-top: 15px;
     padding-bottom: 15px;
-    box-shadow: inset 0 0 3px 1px #fe4555;
+    box-shadow: inset 0 0 3px 3px #fe4555;
     background: linear-gradient(
       135deg,
       rgba(15, 25, 25, 1) 0%,
